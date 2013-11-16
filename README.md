@@ -90,11 +90,6 @@ matte (hex color)
 ```php
 {matte:'#ff0000'} name_of_image.gif
 ```
-
-retina (boolean)
-```php
-{retina:true} name_of_image.gif
-```
 =======
 
 #### Retina:
