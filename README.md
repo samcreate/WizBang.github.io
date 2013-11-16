@@ -36,5 +36,14 @@ Many applications have shortcuts or hot keys to allow you to access frequently u
 
 ### Examples:
 
+#### JPG:
 Coming soon...
 
+#### PNG:
+Coming soon...
+
+#### GIF:
+Coming soon...
+
+#### Retina:
+Coming soon...
