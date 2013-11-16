@@ -2,13 +2,13 @@ WizBang
 =======
 
 
-![](https://raw.github.com/samcreate/WizBang/master/images/layer.examples.png) 
-
 Converts Layer names to optimized web images automatically 
 
 Turns a photoshop layer named: "{retina:true}logo.mini.png" into a transparent web optimized PNG named "logo.mini.png" and creates 2x retina version named "logo.mini@2x.png" in a folder that you specify... All with correct dimensions and flattened layers styles. 
 
 Layer name into image! Behold!
+
+![](https://raw.github.com/samcreate/WizBang/master/images/layer.examples.png) 
 
 
 ### Installing a Photoshop Script
@@ -39,13 +39,56 @@ Many applications have shortcuts or hot keys to allow you to access frequently u
 ### Examples:
 
 #### JPG:
-Coming soon...
 
+basic 
+```php
+name_of_image.jpg
+```
+
+quality (in percent)
+```php
+{quality:80} name_of_image.jpg
+```
+
+retina (boolean)
+```php
+{retina:true} name_of_image.jpg
+```
+
+=======
 #### PNG:
-Coming soon...
 
+basic 
+```php
+name_of_image.png
+```
+
+png8 (boolean) (exports a png8 image)
+```php
+{png8:true} name_of_image.png
+```
+
+matte (hex color)
+```php
+{matte:'#ff0000'} name_of_image.png
+```
+
+retina (boolean)
+```php
+{retina:true} name_of_image.png
+```
+
+=======
 #### GIF:
-Coming soon...
 
-#### Retina:
-Coming soon...
+basic 
+```php
+name_of_image.gif
+```
+
+matte (hex color)
+```php
+{matte:'#ff0000'} name_of_image.gif
+```
+=======
+
