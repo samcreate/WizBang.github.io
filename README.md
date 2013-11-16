@@ -92,5 +92,3 @@ matte (hex color)
 ```
 =======
 
-#### Retina:
-Coming soon...
