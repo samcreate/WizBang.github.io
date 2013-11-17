@@ -36,7 +36,7 @@ Many applications have shortcuts or hot keys to allow you to access frequently u
 6. When finished, click OK.
 
 
-### Examples:
+### Documentation:
 
 #### JPG:
 
@@ -45,7 +45,7 @@ basic
 name_of_image.jpg
 ```
 
-quality (in percent)
+quality (number in percent)
 ```php
 {quality:80} name_of_image.jpg
 ```
@@ -53,6 +53,16 @@ quality (in percent)
 retina (boolean)
 ```php
 {retina:true} name_of_image.jpg
+```
+
+width (number)
+```php
+{w:400} name_of_image.jpg
+```
+
+height (number)
+```php
+{h:400} name_of_image.jpg
 ```
 
 =======
@@ -78,6 +88,16 @@ retina (boolean)
 {retina:true} name_of_image.png
 ```
 
+width (number)
+```php
+{w:400} name_of_image.png
+```
+
+height (number)
+```php
+{h:400} name_of_image.png
+```
+
 =======
 #### GIF:
 
@@ -89,6 +109,16 @@ name_of_image.gif
 matte (hex color)
 ```php
 {matte:'#ff0000'} name_of_image.gif
+```
+
+width (number)
+```php
+{w:400} name_of_image.gif
+```
+
+height (number)
+```php
+{h:400} name_of_image.gif
 ```
 =======
 
