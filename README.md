@@ -32,27 +32,27 @@ Below are the options you can add to the layer name for finer control of the exp
 #### JPG:
 
 basic 
-```php
+```javascript
 name_of_image.jpg
 ```
 
 quality (number in percent)
-```php
+```javascript
 {quality:80} name_of_image.jpg
 ```
 
 retina (boolean)
-```php
+```javascript
 {retina:true} name_of_image.jpg
 ```
 
 width (number)
-```php
+```javascript
 {w:400} name_of_image.jpg
 ```
 
 height (number)
-```php
+```javascript
 {h:400} name_of_image.jpg
 ```
 
@@ -60,32 +60,32 @@ height (number)
 #### PNG:
 
 basic 
-```php
+```javascript
 name_of_image.png
 ```
 
 png8 (boolean) (exports a png8 image)
-```php
+```javascript
 {png8:true} name_of_image.png
 ```
 
 matte (hex color)
-```php
+```javascript
 {matte:'#ff0000'} name_of_image.png
 ```
 
 retina (boolean)
-```php
+```javascript
 {retina:true} name_of_image.png
 ```
 
 width (number)
-```php
+```javascript
 {w:400} name_of_image.png
 ```
 
 height (number)
-```php
+```javascript
 {h:400} name_of_image.png
 ```
 
@@ -93,22 +93,22 @@ height (number)
 #### GIF:
 
 basic 
-```php
+```javascript
 name_of_image.gif
 ```
 
 matte (hex color)
-```php
+```javascript
 {matte:'#ff0000'} name_of_image.gif
 ```
 
 width (number)
-```php
+```javascript
 {w:400} name_of_image.gif
 ```
 
 height (number)
-```php
+```javascript
 {h:400} name_of_image.gif
 ```
 =======
