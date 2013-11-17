@@ -12,7 +12,11 @@ Layer name into image! Behold!
 ![](https://raw.github.com/samcreate/WizBang/master/images/layer.examples.png) 
 
 
-### Installing a Photoshop Script
+### First, download the script:
+
+[Download export_NameToFile.jsx](https://raw.github.com/samcreate/WizBang/master/export_NameToFile.jsx)
+
+### Second, Install the Photoshop Script
 1. Close Photoshop if it is open.
 2. Copy the script and its ‘Scripts Only’ folder to the Scripts folder in your Photoshop installation directory.
   - On Windows: C:\Program Files\Adobe\Photoshop CS[x]\Preset\Scripts.
@@ -20,11 +24,11 @@ Layer name into image! Behold!
 3. Open Photoshop.
 4. The script will now appear on the File > Scripts menu and can be run from here at any time.
  
-### Running a Photoshop Script without Installing
+### Else if: Running a Photoshop Script without Installing
 1. Open Photoshop.
 2. Select File -> Scripts -> Browse and navigate to the "export_NameToFile.jxs" file.
  
-### Running a script from a shortcut
+### Else if: Running a script from a shortcut
 Many applications have shortcuts or hot keys to allow you to access frequently used functionality faster. If you install your script to the File -> Scripts menu you can allocate a keyboard shortcut to run the script using the instructions below.
 
 1. Launch the keyboard shortcuts dialog by clicking Edit > Keyboard Shortcuts.
