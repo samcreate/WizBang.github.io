@@ -18,7 +18,7 @@ Layer name into image! Behold!
 
 ### Second, Install the Photoshop Script
 1. Close Photoshop if it is open.
-2. Copy the script and its ‘Scripts Only’ folder to the Scripts folder in your Photoshop installation directory.
+2. Copy the script and its ‘Scripts Only’ folder to the Scripts folder in your Photoshop installation directory. (Warning: I have yet to test this script outside of CS6, but hey, it might work, give it a try.)
   - On Windows: C:\Program Files\Adobe\Photoshop CS[x]\Preset\Scripts.
   - On a MAC  : Applications > Photoshop CS[x] -> Presets -> Scripts.
 3. Open Photoshop.
