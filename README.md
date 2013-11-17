@@ -27,7 +27,7 @@ Layer name into image! Behold!
 
 ### Documentation:
 
-Below are the options you can add to the layer name for finer control of the exported image. Each example is showing one parameter but note that you can add as many applicalble parameters as you want, per layer name. 
+Below are the options you can add to the layer name for finer control of the exported image. Each example is showing one parameter but note that you can add as many applicable parameters as you want, per layer name. 
 
 #### JPG:
 
