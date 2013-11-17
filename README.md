@@ -1,6 +1,7 @@
-WizBang
+![](https://raw.github.com/samcreate/WizBang/master/images/wiz_bang_icon60x60.png)WizBang
 =======
 
+ 
 
 Converts Layer names to optimized web images automatically 
 
