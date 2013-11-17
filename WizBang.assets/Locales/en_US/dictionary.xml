@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="en_US" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/ActionScript/Script/desc###14" translate="yes">
+    <val>Export current documents images</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###13" translate="yes">
+    <val>Export Images</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###4" translate="yes">
+    <val>Run WizBang on current document</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###8" translate="yes">
+    <val>Run WizBang on current document</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###3" translate="yes">
+    <val>Run</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###7" translate="yes">
+    <val>Export Images</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###11" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###15" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###2" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###5" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###9" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Container/VBox/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/FlyoutMenu/about" translate="yes">
+    <val>About</val>
+  </str>
+  <str name="Configurator/key_###1" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###10" translate="yes">
+    <val>export_NameToFile.jsx</val>
+  </str>
+  <str name="Configurator/key_###12" translate="yes">
+    <val><![CDATA[WizBang™]]></val>
+  </str>
+  <str name="Configurator/key_###6" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/watermark/htmlText" translate="yes">
+    <val>Created By &lt;a href='http://samcreate.com' target='_blank'&gt;Samcreate&lt;/a&gt; using &lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;Configurator&lt;/a&gt;</val>
+  </str>
+  <str name="Configurator/watermark/width" translate="yes">
+    <val>186</val>
+  </str>
+  <str name="Configurator/watermark/x" translate="yes">
+    <val>34</val>
+  </str>
+  <str name="Configurator/Widget/Text/desc" translate="yes">
+    <val/>
+  </str>
+</asf>
