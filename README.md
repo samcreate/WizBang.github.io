@@ -3,7 +3,7 @@
 
  
 
-Converts Layer names to optimized web images automatically 
+Converts Layer names to optimized web images automatically  ( currently only supports CS6 )
 
 Turns a photoshop layer named: "{retina:true}logo.mini.png" into a transparent web optimized PNG named "logo.mini.png" and creates 2x retina version named "logo.mini@2x.png" in a folder that you specify... All with correct dimensions and flattened layers styles. 
 
